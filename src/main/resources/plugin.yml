@@ -1,0 +1,6 @@
+name: CompassFollowsPlayer
+version: '1.0'
+main: me.coderDAN07.CompassFollowsPlayer
+api-version: '1.21'
+authors: [ coderDAN07 ]
+description: Makes compasses follow a specific player
