@@ -3,4 +3,14 @@ version: '1.0'
 main: me.coderDAN07.CompassFollowsPlayer
 api-version: '1.21'
 authors: [ coderDAN07 ]
-description: Makes compasses follow a specific player
+description: Allows you to point compasses to a specific player
+commands:
+  tracker:
+    description: Tracks the selected player
+    usage: <?command>
+  trackme:
+    description: Starts tracking your location
+    usage: <?command>
+  autotrack:
+    description: Toggles whether to automatically update the compass or not
+    usage: <?command>
